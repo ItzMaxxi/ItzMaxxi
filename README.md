@@ -20,5 +20,5 @@ const aboutMe = {
 
 ![image](https://github-readme-stats.vercel.app/api?username=ItzMaxxi&count_private=1&theme=radical)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMaxxi&layout=compact)
-[![Max឵឵឵#9544]([(https://discord.c99.nl/widget/theme-3/996124973296779264.png)(https://discord.com/users/996124973296779264)])
+[![Max឵឵឵#9544](https://discord.c99.nl/widget/theme-3/996124973296779264.png)](https://discord.com/users/996124973296779264)
 

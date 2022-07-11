@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=ItzMaxxi&color=orange)
 
-[daniel.is-a.dev](https://daniel.is-a.dev)
+[My website](https://eu.dzxdev.repl.co/)
 
 ### Hi there 👋
 
-My name is Hackermon!
+My name is Guilherme!
 
 ```js
 const aboutMe = {
   'workingOn': 'nothing',
-  'learning': 'Rust',
-  'contactMe': 'daniel@daniel.is-a.dev',
+  'learning': 'Javascript',
+  'contactMe': 'iimaxxiguilham@gmail.com',
   'pronouns': ['he', 'him']
 }
 
@@ -18,7 +18,7 @@ const aboutMe = {
 
 ### Stats
 
-![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1&theme=radical)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev&layout=compact)
-[![hackermon#3393](https://discord.c99.nl/widget/theme-1/963141789571756062.png)](https://discord.com/users/963141789571756062)
+![image](https://github-readme-stats.vercel.app/api?username=ItzMaxxi&count_private=1&theme=radical)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMaxxi&layout=compact)
+[![Max឵឵឵#9544]([(https://discord.c99.nl/widget/theme-3/996124973296779264.png)](https://discord.com/users/996124973296779264))
 
